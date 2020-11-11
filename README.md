@@ -17,7 +17,7 @@ main modules used in its development were:
 2. All animations are coded no video file was used.
 3. All graphics and sounds are free and available publically.
 4. Light weight game.
-5. Use modules to build everything. Hence, adding new stages is not an issue.
+5. Use modules to build everything. Hence, adding new stages is very easy.
 ## Flaws:
 being my first project it:
 1. lack proper variable names in some modules
