@@ -4,7 +4,7 @@ SPACE ASSAULT is a story based multi stagged game developed in python using pyga
 main modules used in its development were:
 1. Pygame (for graphics handling, logic building and organizing)
 2. time (for countdown etc.)
-3. player (for music play and sound effects)
+3. pygame.mixer (for music play and sound effects)
 ## Modules in this game:
 1. stage.py (contain all data about how to build stage)
 2. enemy.py (contain class for building enemy)
